@@ -1,0 +1,69 @@
+body {
+  background-color: #010165;
+  margin: 0px;
+}
+
+.header {
+  background-color: #0ff;
+  text-align: center;
+}
+
+h2 {
+  color: #0ff;
+  text-align: center;
+  font-weight: normal;
+}
+
+ol {
+  color: white;
+  text-align: center;
+}
+
+.door-row {
+  text-align: center;
+}
+
+.start-row {
+  background-color: #0ff;
+  color: blue;
+  border-radius: 20px;
+  width: 120px;
+  height: auto;
+  text-align: center;
+  border: none;
+  margin: 10px auto;
+  padding: 18px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.door-frame {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+}
+
+.heading img {
+  padding: 10px;
+}
+
+table {
+  display: flex;
+  justify-content: center;
+}
+
+table tr td {
+  color: white;
+  font-size: 18px;
+  padding-left: 10px;
+  text-align: center;
+}
+
+.number {
+  font-size: 40px;
+  color: aquamarine;
+}

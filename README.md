@@ -1,3 +1,4 @@
 # Codecademy-Projects
 
-Some projects done in codecademy.com
+Some practice projects done in codecademy.com  
+(esp in the web development Career Path.)
