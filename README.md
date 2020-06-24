@@ -1,2 +1,3 @@
 # Codecademy-Projects
-Projects done in Codecademy.
+
+Some projects done in codecademy.com
